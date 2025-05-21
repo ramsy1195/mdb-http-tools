@@ -1,0 +1,5 @@
+*.o
+mdb-lookup-server
+http-client
+*.html
+*.log
